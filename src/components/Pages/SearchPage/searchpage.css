@@ -1,0 +1,8 @@
+.Searchpage{
+    flex-direction: row;
+}
+@media (max-width: 600px) {
+    .Searchpage{
+        flex-direction: column;
+    }
+}
