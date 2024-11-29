@@ -5,6 +5,7 @@ import SearchPage from './components/Pages/SearchPage/SearchPage'
 function App() {
   return (
   <>
+    <h1>Hello</h1>
     < SearchPage />
   </>
   )
