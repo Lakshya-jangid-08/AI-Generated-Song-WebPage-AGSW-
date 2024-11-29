@@ -28,7 +28,7 @@ function SearchPage() {
   return (
     <div className='flex Searchpage'>
         <MainMenu />
-        <div className=" chat bg-gray-900 w-full px-10 py-10">
+        <div className=" chat bg-gray-900 w-full py-10">
         <div className='flex flex-col relative box h-full w-full border-solid border-2 rounded-3xl shadow-2xl'> 
             <div class="flex items-start rounded-3xl justify-center min-h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
                 <form className='p-6 rounded-lg shadow-lg flex items-center space-x-4 max-w-md w-full'>
