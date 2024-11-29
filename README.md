@@ -1,8 +1,4 @@
-# React + Vite
+# AGSW
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am building a web platform designed to help users generate original songs. This platform will empower users to create unique lyrics, melodies, and beats tailored to specific themes or moods. By inputting keywords or emotions, the website will use AI algorithms to craft a complete song, offering flexibility in adjusting tempo, key, and instruments. It's a space for creativity, perfect for musicians, songwriters, or anyone seeking inspiration
